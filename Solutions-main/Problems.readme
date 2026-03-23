@@ -1,0 +1,104 @@
+1. Print “Hello World”
+2. Take a number and print it
+3. Add two numbers
+4. Find the square of a number
+5. Convert Celsius to Fahrenheit
+6. Swap two variables
+7. Check if a number is even or odd
+8. Find the largest of 3 numbers
+9. Check if a number is positive, negative, or zero
+10. Print numbers from 1 to N
+11. Sum of first N natural numbers
+12. Multiplication table of a number
+13. Count digits in a number
+14. Reverse a number
+15. Check palindrome number
+16. Find factorial of a number
+17. Check prime number
+18. Print all prime numbers up to N
+19. Find GCD of two numbers
+20. Find LCM of two numbers
+
+21. Generate Fibonacci series up to N
+22. Find sum of digits of a number
+23. Find product of digits
+24. Find largest digit in a number
+25. Check Armstrong number
+26. Count even and odd digits
+27. Convert binary to decimal
+28. Convert decimal to binary
+29. Find power (without using **)
+30. Check perfect number
+31. Print all factors of a number
+32. Count frequency of digits
+33. Find second largest number in a list
+34. Find smallest number in a list
+35. Remove duplicates from a list
+36. Merge two lists
+37. Find common elements in two lists
+38. Count vowels in a string
+39. Reverse a string
+40. Check palindrome string
+
+41. Find length of string without using len()
+42. Count words in a sentence
+43. Find most frequent character
+44. Sort a list without using built-in functions
+45. Implement Bubble Sort
+46. Implement Selection Sort
+47. Find missing number in a list
+48. Find duplicate elements in a list
+49. Rotate a list by k positions
+50. Move all zeros to the end of a list
+51. Find intersection of two lists
+52. Check if two strings are anagrams
+53. Find first non-repeating character
+54. Count uppercase and lowercase letters
+55. Remove all spaces from a string
+56. Replace characters in a string
+57. Check if substring exists
+58. Find the longest word in a sentence
+59. Find sum of elements in a list
+60. Flatten a nested list
+
+61. Implement Linear Search
+62. Implement Binary Search
+63. Implement a Stack using list
+64. Implement a Queue
+65. Check for balanced parentheses
+66. Find peak element in array
+67. Maximum subarray sum (Kadane’s Algorithm)
+68. Solve Two Sum problem
+69. Solve Three Sum problem
+70. Longest substring without repeating characters
+71. Matrix addition
+72. Matrix multiplication
+73. Transpose of a matrix
+74. Print matrix in spiral form
+75. Build Tic-Tac-Toe (CLI)
+76. Number guessing game
+77. Random password generator
+78. Caesar cipher encryption/decryption
+79. Count inversions in an array
+80. Merge two sorted arrays
+
+81. Implement a Linked List
+82. Reverse a Linked List
+83. Detect cycle in a Linked List
+84. Implement a Binary Tree
+85. Tree traversal (DFS and BFS)
+86. Find height of a tree
+87. Lowest Common Ancestor in a tree
+88. Graph representation using adjacency list
+89. Depth First Search (DFS)
+90. Breadth First Search (BFS)
+91. Dijkstra’s shortest path algorithm
+92. Sudoku solver
+93. N-Queens problem
+94. Maze solver using backtracking
+95. Build a simple calculator parser
+96. File search tool
+97. URL shortener logic
+98. Chat system (CLI-based simulation)
+99. Simple recommendation system
+100. Build a mini programming language interpreter
